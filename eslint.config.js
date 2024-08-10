@@ -1,7 +1,6 @@
 import typescriptParser from '@typescript-eslint/parser';
 import prettierPlugin from 'eslint-plugin-prettier';
 import tsRecommended from '@typescript-eslint/eslint-plugin';
-import prettierConfig from 'eslint-config-prettier';
 
 export default [
   {
